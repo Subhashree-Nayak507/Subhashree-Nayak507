@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Fullstack Devloper<br>Currently working :- React, Typescript, Express, mongodb
+I am a Fullstack Devloper<br>Currently working :- React, Typescript, Express, mongodb<br>Currently Learning :- Next.js
 
 
 ## 🌐 Socials:
